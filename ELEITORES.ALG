@@ -1,17 +1,17 @@
 Algoritmo "Eleitores"
-// Disciplina   : [Lógica de Programação com Javascript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com Javascript]
 // Professor   : Jailson Costa
-// Descrição   : Mostra o percentual de votos
+// DescriÃ§Ã£o   : Mostra o percentual de votos de um municÃ­pio
 // Autor(a)    : Maria Eduarda de Sales Miranda
 // Data atual  : 15/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 brancos, nulos, validos, total_eleitores:inteiro
 percentual_brancos, percentual_nulos, percentual_validos:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-Escreval("Escreva o número total de eleitores")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+Escreval("Escreva o nÃºmero total de eleitores")
 Leia(total_eleitores)
 Escreval("Digite quantos votos brancos")
 Leia(brancos)
