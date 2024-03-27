@@ -1,20 +1,20 @@
-Algoritmo "Multiplicacao"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Subtracao"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : O programa faz a multiplicacao de dois valores inteiros
+// DescriÃ§Ã£o   : O programa faz a subtracao de dois valores inteiros
 // Autor(a)    : Maria Eduarda de Sales Miranda
 // Data atual  : 15/03/2024
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 numero1:inteiro
 numero2:inteiro
 multiplicacao:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 Escreval ("Digite o primeiro numero")
 Leia (numero1)
 Escreval ("Digite o segundo numero")
 Leia (numero2)
 multiplicacao<- numero1 * numero2
-Escreval ("A multiplicacao dos valores digitados é", multiplicacao)
+Escreval ("A multiplicacao dos valores digitados Ã©", multiplicacao)
 Fimalgoritmo
