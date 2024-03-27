@@ -1,7 +1,7 @@
 Algoritmo "Preco_Carro"
-// Disciplina   : [Lógica de Programação com JavasCript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavasCript]
 // Professor   : Jailson Costa
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Calcula o preÃ§o de um carro
 // Autor(a)    : Maria Eduarda de Sales Miranda
 // Data atual  : 18/03/2024
 Var
@@ -17,7 +17,7 @@ Inicio
   percentual_distribuidor <- 28 / 100
   percentual_impostos <- 45 / 100
   custo_consumidor <- (custo_de_fabrica * percentual_distribuidor) + (custo_de_fabrica * percentual_impostos)
-  Escreval("o custo de um carro para o consumidor é", custo_consumidor)
+  Escreval("o custo de um carro para o consumidor Ã©", custo_consumidor)
 
 
 Fimalgoritmo
